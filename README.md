@@ -1,5 +1,5 @@
 # Reciprocal-Velocity-Obstacle
 
-This algorithm a part work of Intelligent Structures and Control Laboratory, UNLV.  
+This implementation of RVO is a part work of Intelligent Structures and Control Laboratory, UNLV.  
 
-This research studied in order to implemented algorithm to avoiad movig obstacles for UAV in the future.
+This research studied in order to implemented algorithm to avoiad moving obstacles for UAV in the future.
